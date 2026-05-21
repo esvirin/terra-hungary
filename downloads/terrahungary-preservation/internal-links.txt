@@ -1,0 +1,15 @@
+./login%3Fredirect=https:%252F%252Fterrahungary.com%252Frating&needECard=0&ratingECardHost=terrahungary.com.html
+index.html#contact
+index.html#contact-tab
+index.html#home
+index.html#page-28362
+index.html#page-28363
+index.html#page-28364
+index.html#page-28365
+index.html#page-28367
+index.html#page-28368
+index.html#page-28441
+index.html#page-29006
+index.html#qr-code-tab
+index.html#ratings-tab
+qr-code-download

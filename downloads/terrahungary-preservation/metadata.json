@@ -1,0 +1,73 @@
+{
+  "site_url": "https://terrahungary.com/",
+  "saved_at": "2026-05-21",
+  "sitemap_urls": [
+    {
+      "loc": "https://terrahungary.com/",
+      "lastmod": "2025-07-14"
+    },
+    {
+      "loc": "https://terrahungary.com/rating",
+      "lastmod": "2025-07-14"
+    }
+  ],
+  "contact": {
+    "phone": "+36 30 600 9516",
+    "email": "info@terrahungary.com",
+    "address": "8380 Hévíz, Ady Endre u. 24.",
+    "map_embed": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBGl6_wWQbZfvpD1JINNUqh_h8nqisuIyk&q=HU%2B8380%2BH%C3%A9v%C3%ADz%2BAdy%20Endre%20u.%2024."
+  },
+  "social_and_external": [
+    "https://aranyoldalak.hu/terra-hungary.htm",
+    "https://drive.google.com/file/d/1KfT0NuZm6TWmffa9W0xYDRhA4cP7dKJu/view?usp=drive_link",
+    "https://ecard.uzleti.hu/uploads/content-images/Terra%20Hungary/491852993_553658961106100_8283888484912992089_n.jpg",
+    "https://ecard.uzleti.hu/uploads/content-images/Terra%20Hungary/491916381_553658984439431_7337336921171744243_n.jpg",
+    "https://ecard.uzleti.hu/uploads/content-images/Terra%20Hungary/491999525_553658951106101_3052505942348271160_n.jpg",
+    "https://maps.app.goo.gl/Qm4c8vciiSWyALLa6",
+    "https://www.evangelikus.hu/hireink/interju/olajfak-nyomaban-andaluziatol-a-balaton-felvidekig",
+    "https://www.facebook.com/TerraHungary",
+    "https://www.google.com/maps/dir/?api=1&destination=8380 Hévíz, Ady Endre u. 24.",
+    "https://www.instagram.com/terrahungary/",
+    "https://www.mtt.hu/adatkezelesi-szabalyzat/",
+    "https://www.mtt.hu/aszf/",
+    "https://www.youtube.com/watch?v=ICf7YrGz99U"
+  ],
+  "internal_links": [
+    "./login%3Fredirect=https:%252F%252Fterrahungary.com%252Frating&needECard=0&ratingECardHost=terrahungary.com.html",
+    "index.html#contact",
+    "index.html#contact-tab",
+    "index.html#home",
+    "index.html#page-28362",
+    "index.html#page-28363",
+    "index.html#page-28364",
+    "index.html#page-28365",
+    "index.html#page-28367",
+    "index.html#page-28368",
+    "index.html#page-28441",
+    "index.html#page-29006",
+    "index.html#qr-code-tab",
+    "index.html#ratings-tab",
+    "qr-code-download"
+  ],
+  "rating_summary": {
+    "endpoint": "https://terrahungary.com/rating/list/0",
+    "status": "no public reviews"
+  },
+  "modal_blocks": [
+    {
+      "code": "impressum",
+      "title": "Impresszum",
+      "body": "MTT Media Korlátolt Felelősségű Társaság („\nMTT Media Kft\n.”)\nSzékhely: 2040 Budaörs Baross utca 165.\nCégjegyzékszám: 13-09-166814\nAdószám: 24753283-2-13\nÜgyvezető: Szirmai Annamira"
+    },
+    {
+      "code": "general_terms_and_conditions",
+      "title": "Általános Szerződési Feltételek",
+      "body": "Általános Szerződési Feltételeink az alábbi linken érhetőek el:\nhttps://www.mtt.hu/aszf/"
+    },
+    {
+      "code": "privacy_statement",
+      "title": "Adatvédelmi Tájékoztató",
+      "body": "Adatkezelési tájékoztatónk az alábbi linken érhető el:\nhttps://www.mtt.hu/adatkezelesi-szabalyzat/"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+# Terra Hungary - extracted content
+
+## Rólunk
+
+Nálunk biztonságban vásárolsz: minden eladott olajfára 1 év garanciát vállalunk!
+
+Több mint hat évvel ezelőtt csak a saját kertünkbe hoztunk néhány olajfát Spanyolországból – szerelemből, kíváncsiságból. A barátainknak is megtetszett, aztán az ismerősöknek is, és egyszer csak azon kaptuk magunkat, hogy egy kis családi hobbiból igazi szenvedélyes vállalkozás lett.
+
+Ma már több mint 60 különleges mediterrán növény éke a bemutatókertünknek – a fiatal csemetéktől egészen az 1500 éves matuzsálemi olajfákig. Pálmák, pisztáciák, magnóliák és sok más szépség várja az érdeklődőket, a kertünk pedig szabadon látogatható.
+
+A Terra Hungary egy szívből jövő, családi vállalkozás, ahol a szakértelem, a tapasztalat és a mediterrán életérzés találkozik – béke, szépség és időtálló értékek formájában.
+
+Garancia és gondozási iránymutatás
+
+Nálunk biztonságban vásárolsz: minden eladott olajfára 1 év garanciát vállalunk!
+
+Az általunk Spanyolországból importált olajfák 1 év garanciával vásárolhatók . A garancia abban az esetben érvényes, ha a növény gondozása során betartod az általunk adott instrukciókat és szakmai tanácsokat .
+
+Fontos számunkra, hogy az olajfád hosszú távon egészséges és szép maradjon, ezért bármilyen kérdés vagy probléma esetén mindig elérhetőek vagyunk . Kérjük, ha problémát észlelsz, telefonon vedd fel velünk a kapcsolatot, vagy személyesen keress meg minket , és szívesen segítünk a megfelelő gondozási lépésekben. Tapasztalataink szerint így a növények biztonsággal regenerálódnak és jól fejlődnek.
+
+A garancia nem terjed ki azokra az esetekre, amikor a növényt szándékosan vagy rendeltetésellenesen károsítják (például súlyos fizikai sérülés, maradandó rongálás esetén).
+
+Amennyiben úgy ítéled meg, hogy a növény elpusztult, és garanciális cserét szeretnél igénybe venni , a kérdéses olajfát vissza kell hoznod kertészetünkbe . A növény állapotának megvizsgálását követően biztosítjuk a cserelehetőséget.
+
+Célunk, hogy vásárlóink biztonságban érezzék magukat, és az általunk kínált olajfák megfelelő gondozás mellett hosszú távon is örömet okozzanak.
+
+ISMERJ MEG MINKET!
+
+A Terra Hungary egy fiatal, szenvedélyből épülő vállalkozás, amely Spanyolország legszebb olajfáit, pisztáciafáit, mediterrán kinti/benti növényeit és kézműves kerámiáit és amfóráit hozza el Magyarországra – közvetlenül a termelőktől, kedvező áron .
+
+Spanyolországi utazásaink során teljesen elvarázsolt bennünket a mediterrán természet világa – különösen az olajfák időtlen szépsége és nyugalmat sugárzó jelenléte . Ebből a személyes élményből nőtte ki magát a Terra Hungary, amelyet most örömmel osztunk meg veletek is.
+
+🌿 Főként olajfákkal dolgozunk – a kis csemetéktől egészen a több száz éves példányokig. Tapasztalatból tudjuk, hogy ezek a fák -18°C-ig fagytűrők , és hazai kertekben is kiválóan megélnek. 🌿 Egyre bővülő kínálatunkban szerepelnek önporzó fajták, pisztáciafák és más szárazságtűrő mediterrán növények is, amelyek természetes, letisztult eleganciát visznek minden kertbe vagy teraszra.
+
+🌿 Emellett már elérhetőek nálunk fagytűrő kerámiák és amfórák , valamint növények beltérre is – ezek akár otthonod, akár irodád stílusos kiegészítői lehetnek.
+
+Az első olajfáinkat hat éve ültettük saját kertünkbe – ma már egy kis „olajfa liget” zöldell Balatongyörökön. Tapasztalatainkat most szeretnénk megosztani mindazokkal, akik hasonlóképp beleszerettek ebbe a különleges növényvilágba.
+
+Nézz körül nálunk hévizi kertészetünkben , ismerd meg személyesen a fákat, és meríts ihletet egy újfajta kertélményhez – mediterrán hangulat, valódi növényekkel, helyi éghajlatra szabva .”
+
+MEGJELENÉSEINK
+
+Egy különleges brunch -ra hívtak meg bennünket, ahol a mediterrán kultúra varázsa, a művészet ereje és a Balaton-felvidék természeti örökségének fenntarthatósága fonódott össze egy inspiráló beszélgetés formájában.
+
+Janza Kata Jászai Mari-díjas színművész volt beszélgetőtársa Tóth Máté kollegánknak, aki, mint a mediterrán növényvilág és olajfák szakértője vett részt ezen a fantasztikus eseményen. Sebastian, mint alapító-tulajdonos egészítette ki a beszélgetést, aki elhivatott úttörője az olajfák és a mediterrán növényvilág Balaton-felvidéken való meghonosításának.
+
+Olajfák nyomában Andalúziától a Balaton-felvidékig >>
+
+Az “igazi békét” sokan sokféleképpen keresik – Tóth Máté Hévíz mellett találta meg, évszázados olajfák között.
+
+Büszkék vagyunk rá, hogy csapatunk tagjaként nap mint nap mediterrán növényeket ment, gondoz, és ültet Magyarországon.
+
+Köszönjük az Evangélikus Élet magazinnak az interjút, és különösen Balczó Mátyásnak az inspiráló beszélgetést!
+
+KÁPTALANTÓTI - TÓTI PIAC
+
+HAJNALIG FESZTIVÁL
+
+Media:
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép3.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép4.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép5.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép6.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/sor.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép13.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép14.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Toth_Mate_interju_foto_Magyari_Marton_60_original.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/sor.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/IMG_0009.JPG
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Sebastian%20-%20alapító-tulajdonos.JPG
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/sor.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/491999525_553658951106101_3052505942348271160_n.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/491916381_553658984439431_7337336921171744243_n.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/491852993_553658961106100_8283888484912992089_n.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/sor.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Káptalantóti%20-%20Tóti%20piac%20-%20megjelenéseink%202.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Káptalantóti%20-%20Tóti%20piac%20-%20Megjelenéseink.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Megjelenéseink%20-%20Hajnalig%20fesztivál.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/sor.jpg
+
+## Olajfa története
+
+Az olajfa története egészen a kora ókorig nyúlik vissza, ahol mind bibliai, mind klasszikus iratok említik. Az ókori szövegek az **olívaolajat** a jóság és tisztaság jelképeként tisztelték, míg maga az olajfa a béke és boldogság szimbóluma volt. Az ókorban az olajfa különleges szerepet kapott: olaját templomi lámpásokban égették, különösen az olimpiai játékok alatt, hogy az ünnepségeken fényt és szentséget biztosítson. Az olimpiai győzteseket az olajfa leveleivel készített koronával tüntették ki, jelezve a dicsőséget és tiszteletet.
+
+Az olajfa hosszú történelme és szimbolikája a mai napig hatással van ránk, emlékeztetve az értékekre, amelyeket képvisel: "a békére, a tisztaságra és az örökkévalóságra".
+
+Media:
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/OliveTreeDay_EN-US9460125670_1920x1080.jpg
+
+## Kiültetett fák/növények
+
+VÁSÁRLÓI VISSZAJELZÉSEK
+
+Media:
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kiültetett%20olajfáink.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Vásárlói%20vissza%20jelzés.JPG
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kiültetett/Kép7.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kiültetett/Kép8.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kiültetett/a62cfae2d276807ee58be1c133b44918.jpeg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kiültetett/pálma.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kiültetett/68a098d5-8511-4bf2-9fc6-84b68fd6e12a.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kiültetett/a46dd165-cb4d-4832-a1cd-9b5514956163.jpg
+
+## Termékeink
+
+Fedezd fel mediterrán növényeink világát! 🌿🌞 Nálunk minden olajfa egy igazi egyéniség – nincs két egyforma darab, hiszen mindegyik saját karakterrel, formával és kisugárzással rendelkezik. A katalógusunkban látható képek és árak tájékoztató jellegűek, hiszen a készletünk folyamatosan változik, akciók is előfordulhatnak, és mindig tartogatunk valami különleges meglepetést is számotokra! 😊
+
+A katalógusunkban az alapdarabokból mutatunk néhányat, de a teljes aktuális kínálatért érdemes ellátogatni hozzánk személyesen – nálunk mindig találsz valami egyedit, amit máshol nem. 🌳💚
+
+Ne maradj le az újdonságokról! Kövess minket Facebookon vagy Instagramon mert ott naponta tájékozódhatsz a legújabb érdekességekről és akciókról. De a legjobb mégis az, ha benézel hozzánk – szeretettel várunk! ☀️🌿
+
+Kattints az alábbi linkre, és nézd meg a katalógusunkat!
+
+KATALÓGUS>>
+
+## Ültetvények
+
+Ültetvények – Olajfák új élete Magyarországon
+
+Teremts mediterrán csodát saját földön! A Terra Hungary-nél egyedülálló lehetőséget kínálunk: akár több évtizedes, Spanyolországból származó olajfák törzseit vásárolhatod meg kedvező áron, hogy saját ültetvényt alakíts ki itthon, Magyarországon.
+
+Ezek a több tíz éves olajfatörzsek – akár 20, 30, 40, sőt 50 évesek is lehetnek – nem csemeték, hanem tapasztalt, érett fák, amelyek új életre kelnek: először meggyökeresednek, majd idővel új koronát nevelnek. Kiváló lehetőséget biztosítanak olajbogyó- vagy olívaolaj-termelésre is.
+
+Természetesen a legkisebbektől a legidősebb példányokig minden méretben kínálunk fákat – csemetéket, fiatal fákat és különleges öreg törzseket is. Fajtaválasztékunk széles, minden egyes fa Spanyolország napfényes olajfaültetvényeiről származik: vannak kimondottan olajbogyó-termesztésre és olívaolaj-előállításra is ideális fajták.
+
+Személyre szabott tanácsadásunkkal segítünk megtalálni a céljaidnak és adottságaidnak legmegfelelőbb törzseket , hogy a mediterrán álom nálunk, a Balaton-felvidéken vagy bárhol az országban is valósággá váljon.
+
+Media:
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép1.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Kép2.jpg
+
+## Viszonteladóknak
+
+Nálunk a minőség és a kedvező ár kéz a kézben jár!
+
+Dolgozz velünk, ha mediterrán szépségekkel tennéd teljessé kínálatod! A TerraHungary-nál prémium minőségű, kültéri és beltéri mediterrán növényekkel, különleges fajtákkal és tartós, fagyálló kerámiákkal dolgozunk – mindezt közvetlenül Spanyolországból, megbízható forrásból.
+
+Kínálatunkban megtalálható:
+
+Több évtizedes olajfák és olajfatörzsek
+
+Pisztáciafák, gránátalma, mangólia, fügék, citromfák , és más mediterrán ritkaságok
+
+Különleges megjelenésű bonsai olajfák
+
+Fagyálló kerámiák és amfórák , melyek kültéren is megőrzik szépségüket
+
+Kis- és nagykereskedelmi tételekben is elérhető, igény szerint
+
+Mi nemcsak növényeket szállítunk – hanem segítünk abban, hogy sikeres vállalkozást építs. Rendkívül kedvező árakkal, gyors és rugalmas szállítással, számlázással és teljes körű ügyintézéssel támogatjuk a viszonteladó partnereinket. Akár induló vállalkozásod van, akár meglévő kertészeti vagy lakberendezési üzletet bővítenél, mi mindenben melletted állunk.
+
+Keress minket bátran! Örömmel dolgozunk együtt új partnerekkel – ha egy megbízható, korrekt mediterrán nagykereskedőt keresel, nálunk jó helyen jársz.
+
+## Galéria
+
+KÉPEK A KERTRŐL
+
+ÚJ SZÁLLÍTMÁNY ÉRKEZETT
+
+OTTHONI KERTÜNK
+
+Otthon elültetett 1300-1500 év közé tehető őstörzses olajfánk
+
+OLAJFA BONSAI (Spanyolországban)
+
+OLAJFAÁG
+
+Media:
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20a%20kertből1.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20a%20kertből2.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/kép%20a%20kertről1.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20a%20kertünkről.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20a%20kertről.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20a%20kertünkről1.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20a%20kertbe.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Új%20szállítmány%20érkezett.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20az%20otthoni%20kertünkről.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20az%20otthoni%20kertünkről1.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Kép%20az%20otthoni%20kertünkből.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Otthon%20elültetett%201300-1500%20év%20közé%20tehető%20őstörzses%20olajfánk.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Olajfa%20bonsai%20spanyolban%20készült%20kép.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Olajfaág.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/Galéria/Olajfaág1.jpg
+- media/cache/resolve/one_page_image/uploads/content-images/Terra%20Hungary/sor.jpg
+- https://www.youtube.com/embed/ICf7YrGz99U?si=lrmoYqgxgzxIXq-u
+
+## Nyitvatartás
+
+Kertészetünk márciustól október végéig a hét minden napján 9:00–17:00 között nyitva tart. Igény esetén 17:00 óra után is rendelkezésedre állunk , kérjük, hogy előzetesen egyeztess velünk telefonon .
+
+A téli időszakban is nyitva vagyunk rövidített nyitvatartással .
+
+Az aktuális nyitvatartási időpontokat mindig megtalálod Facebook - és Instagram oldalunkon.
+
+## Contact
+
+Kapcsolat
+Telefonszám
+Telefonszám: +36 30 600 9516
+E-mail cím
+Cím
+8380 Hévíz, Ady Endre u. 24. Útvonalterv
+Küldjön üzenetet
+QR kód
+Értékelések
+Vélemény írásához be kell jelentkezned
+Nyitvatartás
+
+## Footer / legal blocks
+
+### Impresszum
+
+MTT Media Korlátolt Felelősségű Társaság („
+MTT Media Kft
+.”)
+Székhely: 2040 Budaörs Baross utca 165.
+Cégjegyzékszám: 13-09-166814
+Adószám: 24753283-2-13
+Ügyvezető: Szirmai Annamira
+
+### Általános Szerződési Feltételek
+
+Általános Szerződési Feltételeink az alábbi linken érhetőek el:
+https://www.mtt.hu/aszf/
+
+### Adatvédelmi Tájékoztató
+
+Adatkezelési tájékoztatónk az alábbi linken érhető el:
+https://www.mtt.hu/adatkezelesi-szabalyzat/
