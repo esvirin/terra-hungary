@@ -40,6 +40,73 @@ const inlineStyles = [
   .graduation-description iframe {
     max-width: 100%;
   }
+
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
+  .section-page {
+    overflow: hidden;
+  }
+
+  .graduation-description,
+  .graduation-description p,
+  .graduation-description span,
+  .graduation-description strong {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
+
+  .graduation-description img.ckImg {
+    height: auto !important;
+    max-width: calc(100% - 20px) !important;
+    object-fit: contain;
+  }
+
+  .gradient-y-overlay-landing::before {
+    background: linear-gradient(180deg, rgba(0, 0, 0, .14), rgba(0, 0, 0, .2));
+  }
+
+  #home h1,
+  #home .h1 {
+    text-wrap: balance;
+  }
+
+  #home .vcard-profile-description .btn {
+    background: rgba(255, 255, 255, .86) !important;
+    color: #19272e !important;
+    text-shadow: none;
+  }
+
+  #home .vcard-profile-description .btn:hover {
+    background: #ffffff !important;
+    color: #3db28c !important;
+  }
+
+  @media (max-width: 991px) {
+    .graduation-description {
+      font-size: 17px !important;
+      line-height: 1.55;
+    }
+
+    .graduation-description p {
+      width: 100% !important;
+    }
+  }
+
+  @media (max-width: 575px) {
+    #home h1,
+    #home .h1 {
+      font-size: 2.6rem !important;
+      line-height: 1.08;
+    }
+
+    .section-page .container {
+      padding-left: 22px;
+      padding-right: 22px;
+    }
+  }
   `,
   `
   .header-bg-transparent:not(.js-header-fix-moment) .header-section {
@@ -71,6 +138,7 @@ const inlineStyles = [
     width: 300px;
     z-index: 9999;
     padding: 10px 20px;
+    box-shadow: 0 18px 45px rgba(0, 0, 0, .18);
   }
 
   .cookie-content h3 { font-size: 21px; }
@@ -88,6 +156,8 @@ const inlineStyles = [
   .cookie-content button {
     background-color: #ffffff !important;
     color: #3db28c !important;
+    border: 0;
+    margin-top: 8px;
   }
 
   .cookie-content button:hover::before {

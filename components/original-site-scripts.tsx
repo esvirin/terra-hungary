@@ -163,6 +163,32 @@ const initScript = `
         $(this).append('<iframe src="' + src + '" height="250" style="border:0" allowfullscreen loading="lazy"></iframe>');
       });
 
+      var cookiePopup = $('#cookiePopup');
+      if (cookiePopup.length) {
+        var cookieConsentAccepted = false;
+
+        try {
+          cookieConsentAccepted = window.localStorage && localStorage.getItem('terraHungaryCookieConsent') === 'accepted';
+        } catch (error) {
+          cookieConsentAccepted = false;
+        }
+
+        if (cookieConsentAccepted) {
+          cookiePopup.hide();
+        }
+
+        cookiePopup.on('click', 'button', function () {
+          try {
+            if (window.localStorage) {
+              localStorage.setItem('terraHungaryCookieConsent', 'accepted');
+            }
+          } catch (error) {
+          }
+
+          cookiePopup.fadeOut(150);
+        });
+      }
+
       function updateHeaderState() {
         var $nav = $('.header-section');
         $nav.toggleClass('scrolled', $(window).scrollTop() > $nav.height());
