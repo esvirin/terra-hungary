@@ -31,12 +31,12 @@ export function getOriginalBodyHtml() {
     return cachedBodyHtml;
   }
 
-  const filePath = path.join(process.cwd(), "public", "index.html");
+  const filePath = path.join(process.cwd(), "lib", "original-index.html");
   const documentHtml = fs.readFileSync(filePath, "utf8");
   const match = documentHtml.match(/<body[^>]*>([\s\S]*)<\/body>/i);
 
   if (!match) {
-    throw new Error("Unable to extract <body> content from public/index.html");
+    throw new Error("Unable to extract <body> content from lib/original-index.html");
   }
 
   cachedBodyHtml = normalizeLocalAssetPaths(normalizeAnchors(stripScripts(match[1])));
